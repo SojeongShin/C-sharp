@@ -1,0 +1,12 @@
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/bin/Debug/netcoreapp3.1/가위바위보_final.deps.json
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/bin/Debug/netcoreapp3.1/가위바위보_final.runtimeconfig.json
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/bin/Debug/netcoreapp3.1/가위바위보_final.runtimeconfig.dev.json
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/bin/Debug/netcoreapp3.1/가위바위보_final.dll
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/bin/Debug/netcoreapp3.1/가위바위보_final.pdb
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/obj/Debug/netcoreapp3.1/가위바위보_final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/obj/Debug/netcoreapp3.1/가위바위보_final.AssemblyInfoInputs.cache
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/obj/Debug/netcoreapp3.1/가위바위보_final.AssemblyInfo.cs
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/obj/Debug/netcoreapp3.1/가위바위보_final.csproj.CoreCompileInputs.cache
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/obj/Debug/netcoreapp3.1/가위바위보_final.dll
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/obj/Debug/netcoreapp3.1/가위바위보_final.pdb
+/Users/sojeongshin/Projects/가위바위보_final/가위바위보_final/obj/Debug/netcoreapp3.1/가위바위보_final.genruntimeconfig.cache
